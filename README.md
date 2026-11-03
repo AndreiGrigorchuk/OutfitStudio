@@ -63,6 +63,16 @@ Outfit Studio is being developed as a native iOS application, focusing on declar
 
 Outfit Studio is a personal software engineering and fashion technology project. Features and architecture are being expanded as development progresses.
 
+## App Screenshots
+
+| Home Screen | Create Collage |
+|---|---|
+| ![Home](screenshots/home-screen.png) | ![Create](screenshots/create-collage.png) |
+
+| Collage Editor | My Collages |
+|---|---|
+| ![Editor](screenshots/collage-editor.png) | ![Collection](screenshots/my-collages.png) |
+
 ## Author
 
 **Andrei Grigorchuk**
